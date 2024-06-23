@@ -1,1 +1,0 @@
-print('Randal Root')
